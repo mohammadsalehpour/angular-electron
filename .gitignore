@@ -2,6 +2,8 @@
 
 # Compiled output
 /dist
+/electron/source
+/electron/electron-win32-x64
 /tmp
 /out-tsc
 /bazel-out

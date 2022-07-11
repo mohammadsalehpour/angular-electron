@@ -1,0 +1,12 @@
+{
+  "name": "DameDast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "electron": "electron .",
+    "electron-packager": "npx electron-packager . electron --platform=win32 --arch=x64"
+  },
+  "author": "Mohammad Salehpour",
+  "license": "ISC"
+}
